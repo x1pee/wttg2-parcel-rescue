@@ -1,6 +1,8 @@
-# Parcel Rescue
+# Parcel Rescue — Welcome to the Game II
 
-WTTG2 parcel pickup mod. Press F6 to collect stuck deliveries.
+Pick up stuck delivery boxes with F6 in Welcome to the Game II (WTTG2).
+
+**Скачать:** [готовые файлы](https://github.com/x1pee/wttg2-parcel-rescue/releases/tag/v1.0.0).
 
 F6 подбирает ближайшую уже доставленную посылку в радиусе 30 метров, включая коробки за забором. Используется штатный обработчик получения покупки. Предметы не создаются; посылки в полёте и ожидающие отправки пропускаются.
 
